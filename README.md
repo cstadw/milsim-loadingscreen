@@ -22,7 +22,7 @@ Clean and easy to use military loading screen. First build that i made. I got so
 > **Preview**
 
 *
-![DSzvoGM|690x351](upload://22sftmqkzFMu9NFtU2YA6TRmRVw.jpeg)
+https://i.imgur.com/DSzvoGM.jpeg
 *
 
 ---
