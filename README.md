@@ -21,9 +21,7 @@ Clean and easy to use military loading screen. First build that i made. I got so
 
 > **Preview**
 
-*
-https://i.imgur.com/DSzvoGM.jpeg
-*
+* https://i.imgur.com/DSzvoGM.jpeg
 
 ---
 
