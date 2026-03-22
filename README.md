@@ -9,12 +9,19 @@ Clean and easy to use military loading screen. First build that i made. I got so
 > **Features**
 
 🖼️ **Animated background slideshow** — Add your own military photos, they fade in and out automatically. Interval is configurable.
+
 🎵 **Built-in media player** — Full HUD-styled audio player with play/pause, skip, loop, seek bar, volume control and a live waveform visualizer. Just drop your MP3s in and add them to the config.
+
 👥 **Live player list** — Pulls directly from your server's `players.json`. Shows player ID, name and ping with color-coded latency. Updates automatically every few seconds.
+
 ⚙️ **Single config file** — Everything you need to change lives in one file: `config.js`. Server name, IP, colors, images, music, timezone — no touching the actual code.
+
 🎨 **Fully color customizable** — Change the entire color scheme from the config. Accent color, backgrounds, panel colors — all in one place.
+
 🕐 **Live UTC clock** — Configurable timezone offset, displayed in the top right HUD panel.
+
 🖥️ **Military HUD design** — Scanlines, film grain overlay, vignette, corner brackets, signal bars, segmented loading bar and monospace fonts throughout.
+
 📁 **Clean file structure** — Separated HTML / CSS / JS + Lua client & server scripts. No spaghetti.
 
 ---
